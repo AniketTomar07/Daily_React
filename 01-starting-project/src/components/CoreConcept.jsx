@@ -7,3 +7,4 @@ export default function CoreConcept({ image, title, description }) {
     </li>
   );
 }
+//this is an example of props, and this comment is to check my git commit history
